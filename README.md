@@ -1,4 +1,4 @@
 # RestfulWS_BankingInfo
-Java Restful Web Service for Patient Info
+Java Restful Web Service for Banking Information
 
-In progress . . .
+Is going to the file types xml, json and csv
